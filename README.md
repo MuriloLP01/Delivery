@@ -1,0 +1,1 @@
+Olá. Este projeto foi desenvolvido no curso de Web Developer da DIgital House. Ele consiste em um exercício de Delivery de uma padaria/lanchonete.
